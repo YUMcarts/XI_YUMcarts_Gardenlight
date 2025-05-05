@@ -1,3 +1,18 @@
+<!--
+@copilot:guidance
+
+This file defines the foundational logic Copilot should follow while assisting developers or contributors in this repository.
+
+Key principles:
+- Uphold thread integrity
+- Carry context and continuity
+- Reflect every 5 steps for alignment
+- Reference `guiding_ethos.md` and `continuity_map.md` for tone and memory
+
+Copilot should treat this as the operational thread map.
+-->
+
+# Loop Protocol 1.0
 # Loop Protocol 1.0
 
 ## Purpose
